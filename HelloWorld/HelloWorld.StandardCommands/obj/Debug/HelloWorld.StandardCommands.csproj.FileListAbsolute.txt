@@ -1,0 +1,11 @@
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.StandardCommands\bin\Debug\HelloWorld.StandardCommands.dll
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.StandardCommands\bin\Debug\HelloWorld.StandardCommands.pdb
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.StandardCommands\bin\Debug\HelloWorld.Core.dll
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.StandardCommands\bin\Debug\HelloWorld.Core.pdb
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\dependencies\HelloWorld.StandardCommands.dll
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\dependencies\HelloWorld.StandardCommands.pdb
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.StandardCommands\obj\Debug\HelloWorld.StandardCommands.csprojAssemblyReference.cache
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.StandardCommands\obj\Debug\HelloWorld.StandardCommands.csproj.CoreCompileInputs.cache
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.StandardCommands\obj\Debug\HelloWorld.StandardCommands.csproj.CopyComplete
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.StandardCommands\obj\Debug\HelloWorld.StandardCommands.dll
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.StandardCommands\obj\Debug\HelloWorld.StandardCommands.pdb

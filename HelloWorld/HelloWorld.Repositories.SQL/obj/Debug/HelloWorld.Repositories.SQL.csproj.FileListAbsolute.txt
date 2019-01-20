@@ -1,0 +1,15 @@
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.SQL\bin\Debug\HelloWorld.Repositories.SQL.dll
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.SQL\bin\Debug\HelloWorld.Repositories.SQL.pdb
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.SQL\bin\Debug\EntityFramework.dll
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.SQL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.SQL\bin\Debug\HelloWorld.Core.dll
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.SQL\bin\Debug\HelloWorld.Core.pdb
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.SQL\bin\Debug\EntityFramework.xml
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.SQL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\dependencies\HelloWorld.Repositories.SQL.dll
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\dependencies\HelloWorld.Repositories.SQL.pdb
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.SQL\obj\Debug\HelloWorld.Repositories.SQL.csprojAssemblyReference.cache
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.SQL\obj\Debug\HelloWorld.Repositories.SQL.csproj.CoreCompileInputs.cache
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.SQL\obj\Debug\HelloWorld.Repositories.SQL.csproj.CopyComplete
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.SQL\obj\Debug\HelloWorld.Repositories.SQL.dll
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.SQL\obj\Debug\HelloWorld.Repositories.SQL.pdb

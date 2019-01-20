@@ -1,0 +1,11 @@
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.File\bin\Debug\HelloWorld.Repositories.File.dll
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.File\bin\Debug\HelloWorld.Repositories.File.pdb
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.File\bin\Debug\HelloWorld.Core.dll
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.File\bin\Debug\HelloWorld.Core.pdb
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\dependencies\HelloWorld.Repositories.File.dll
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\dependencies\HelloWorld.Repositories.File.pdb
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.File\obj\Debug\HelloWorld.Repositories.File.csprojAssemblyReference.cache
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.File\obj\Debug\HelloWorld.Repositories.File.csproj.CoreCompileInputs.cache
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.File\obj\Debug\HelloWorld.Repositories.File.csproj.CopyComplete
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.File\obj\Debug\HelloWorld.Repositories.File.dll
+C:\Users\rr189421\Source\Repos\HelloWorld\HelloWorld\HelloWorld.Repositories.File\obj\Debug\HelloWorld.Repositories.File.pdb
